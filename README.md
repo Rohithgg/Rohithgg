@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! A passionate software engineer. Here's a bit about me:
 
 ## 🚀 What I'm Up To
-- 💻 Exploring web development with React JS
-- 💡Building ideas into reality
+- 💻 building [smartzy](smartzyedu.com)
+- 💡make ideas into reality
 - 🧐 problem solving
 
 ## 👨‍💻 About Me
