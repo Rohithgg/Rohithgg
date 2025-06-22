@@ -18,14 +18,14 @@
 ---
 
 ## 🚀 What I'm Up To
-- 💻 Building [smartzy](https://smartzyedu.com)
+- 💻 Building [smartzy](https://github.com/Smartzydev)
 - 💡 Turning ideas into reality
-- 🧐 Problem solving addict
+- 🧐 Problem-solving addict
+- ✏️ learning technology trends
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software engineering student
 - 🏃‍♂️ Rapid learner & adaptable
 - 🗂️ Productive and organized
 - 🗣️ Sociable, with leadership skills
