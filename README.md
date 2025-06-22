@@ -96,7 +96,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohithgg&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=Rohithgg&theme=tokyonight&hide_border=true&title=GitHub%20Streaks"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithgg&layout=compact&theme=tokyonight"/>
 </p>
 
