@@ -18,9 +18,8 @@
 ---
 
 ## 🚀 What I'm Up To
-- 💻 Building [smartzy](https://github.com/Smartzydev)
 - 💡 Turning ideas into reality
-- 🧐 Problem-solving addict
+- 🧐 Solving real life problem solving 
 - ✏️ learning technology trends
 
 ---
@@ -28,7 +27,7 @@
 ## 👨‍💻 About Me
 - 🏃‍♂️ Rapid learner & adaptable
 - 🗂️ Productive and organized
-- 🗣️ Sociable, with leadership skills
+- 🗣️ Sociable, leader and also a good contributor.  
 - 🤸 Exploring everything tech!
 
 ---
