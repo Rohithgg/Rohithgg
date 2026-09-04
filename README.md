@@ -1,56 +1,76 @@
 <div align="center">
 
-# Rohith Gona
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:1d4ed8,100:06b6d4&text=ROHITH%20GONA&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Co-founder%20%7C%20Product%20Builder%20%7C%20Full-stack%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" alt="Rohith Gona — Co-founder, Product Builder, Full-stack Engineer" />
 
-### Co-founder · Product builder · Full-stack engineer
+### I turn painful workflows into simple, useful products.
 
-**I turn painful workflows into simple, useful products.**
+Building **[WrenchCloud](https://github.com/WRENCH-CLOUD)** — helping garages run the work behind every repair, without the chaos.
 
-Building [WrenchCloud](https://github.com/WRENCH-CLOUD) — software that helps garages run their daily operations without the chaos.
-
-<p>
-  <a href="https://github.com/Rohithgg"><img src="https://img.shields.io/badge/GitHub-Rohithgg-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rohithgona"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:atworkrohith.gona@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://github.com/Rohithgg"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+<a href="mailto:atworkrohith.gona@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0ea5e9?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's connect" /></a>
 
 </div>
 
 ---
 
-## What I build
+## `01` — The builder
 
-- **WrenchCloud** — multi-tenant garage management SaaS for customers, vehicles, job cards, estimates, invoices, inventory, analytics, and mobile workflows.
-- **Product experiments** — AI, vehicle intelligence, online assessments, document chat, data tools, and developer experiences.
+I work where **real-world pain meets product engineering**: understand the workflow, find the friction, build the smallest useful fix, and ship it.
 
-I work from **problem → product → production**: understand the pain, design the simplest useful solution, ship it, and improve it.
+| Discover | Design | Deliver |
+| :---: | :---: | :---: |
+| Find the problem | Make it feel simple | Make it dependable |
 
-## Selected work
-
-| Project | Focus |
-| --- | --- |
-| [WrenchCloud](https://github.com/WRENCH-CLOUD/machnix) | Garage operations · Next.js · Expo · Supabase · PostgreSQL |
-| [Vehicle Maintain AI Predict](https://github.com/Rohithgg/vehicle-maintain-AI-predict) | AI-assisted vehicle health and maintenance |
-| [Retro Terminal Portfolio](https://github.com/Rohithgg/Rohithgg.github.io) | Terminal-inspired personal portfolio |
-| Build-IT | End-to-end online assessment platform |
-
-## Stack
+## `02` — Current build
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo,nodejs,rust,python,postgres,supabase,docker,linux,git" alt="TypeScript, React, Next.js, Expo, Node.js, Rust, Python, PostgreSQL, Supabase, Docker, Linux, Git" />
+
+<a href="https://github.com/WRENCH-CLOUD/machnix"><img src="https://img.shields.io/badge/WRENCHCLOUD-Active%20build-111827?style=for-the-badge&logo=github&logoColor=white" alt="WrenchCloud active build" /></a>
+<a href="https://github.com/WRENCH-CLOUD/machnix/commits/main"><img src="https://img.shields.io/github/last-commit/WRENCH-CLOUD/machnix?label=shipping%20often&logo=git&style=for-the-badge&color=06b6d4" alt="WrenchCloud latest commit" /></a>
+
 </div>
 
-**Also:** Tailwind CSS · shadcn/ui · TanStack Query · Zod · JWT/RLS · CI/CD · AI tooling
+**WrenchCloud** is a multi-tenant garage management SaaS for customers, vehicles, job cards, estimates, invoices, inventory, analytics, and mobile workflows.
 
-## GitHub snapshot
+`Next.js` `Expo` `React Native` `TypeScript` `Supabase` `PostgreSQL` `RLS`
 
-<a href="https://github.com/Rohithgg?tab=followers"><img src="https://img.shields.io/github/followers/Rohithgg?label=followers&logo=github&style=flat-square&color=236ad3" alt="GitHub followers" /></a>
-<a href="https://github.com/Rohithgg"><img src="https://img.shields.io/github/last-commit/Rohithgg/Rohithgg?label=profile%20updated&logo=github&style=flat-square&color=f5c542" alt="Profile last updated" /></a>
+## `03` — Selected work
+
+<div align="center">
+
+<a href="https://github.com/Rohithgg/vehicle-maintain-AI-predict"><img src="https://img.shields.io/badge/VEHICLE%20AI-Health%20%26%20maintenance-111827?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Vehicle Maintain AI Predict" /></a>
+<a href="https://github.com/Rohithgg/Rohithgg.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-Terminal%20experience-111827?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="Retro Terminal Portfolio" /></a>
+<a href="https://github.com/Rohithgg"><img src="https://img.shields.io/badge/BUILD--IT-Online%20assessments-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="Build-IT online assessment platform" /></a>
+
+</div>
+
+> From **garage operations** to **vehicle intelligence**, **AI tools**, **online assessments**, and **data products** — I like taking an idea all the way to something people can use.
+
+## `04` — Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo,nodejs,rust,python,postgres,supabase,docker,linux,git&perline=12" alt="TypeScript, React, Next.js, Expo, Node.js, Rust, Python, PostgreSQL, Supabase, Docker, Linux, Git" />
+
+`Tailwind CSS` · `shadcn/ui` · `TanStack Query` · `Zod` · `JWT/RLS` · `CI/CD` · `AI tooling`
+
+</div>
+
+## `05` — GitHub pulse
+
+<div align="center">
+
+<a href="https://github.com/Rohithgg?tab=followers"><img src="https://img.shields.io/github/followers/Rohithgg?label=FOLLOWERS&logo=github&style=for-the-badge&color=2563eb" alt="GitHub followers" /></a>
+<a href="https://github.com/Rohithgg"><img src="https://img.shields.io/github/last-commit/Rohithgg/Rohithgg?label=PROFILE%20UPDATED&logo=github&style=for-the-badge&color=06b6d4" alt="Profile last updated" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Find the pain. Build the fix. Ship it.**
+### Find the pain. Build the fix. Ship it.
+
+<sub>Always learning. Always building. Always looking for the next useful problem.</sub>
 
 </div>
