@@ -2,9 +2,9 @@
 
 # Hey, I’m Rohith Gona
 
-### Co-founder & CTO at [WrenchCloud](https://github.com/WRENCH-CLOUD) · Product builder · Full-stack engineer
+### Co-founder at [WrenchCloud](https://github.com/WRENCH-CLOUD) · Product builder · Full-stack engineer
 
-I build practical software for people doing real work — currently turning garage operations into a calmer, more connected workflow with **WrenchCloud**.
+I find painful, repetitive workflows and turn them into focused products that people can actually use. Right now, I’m building **WrenchCloud** to make garage operations calmer, faster, and more connected.
 
 <p>
   <a href="https://github.com/Rohithgg"><img src="https://img.shields.io/badge/GitHub-Rohithgg-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
@@ -16,13 +16,19 @@ I build practical software for people doing real work — currently turning gara
 
 ---
 
+## Builder at work
+
+I’m most useful where a real-world problem needs both product judgment and engineering depth. I move from talking to users and mapping the workflow to designing the system, building the interface, shipping the first version, and improving it from feedback.
+
+My work sits at the intersection of **pain discovery, product design, full-stack engineering, automation, and business building**. I care about reducing friction, making complex operations understandable, and creating software that earns its place in someone’s daily routine.
+
 ## What I’m building now
 
 ### WrenchCloud — garage operations, without the chaos
 
 I’m building WrenchCloud with my co-founder: a multi-tenant garage management SaaS for repair shops and service teams. The product brings customers, vehicles, job cards, estimates, invoices, inventory, analytics, and mobile workflows into one system.
 
-The active codebase is a **pnpm + Turborepo monorepo** with a Next.js web app, an Expo/React Native mobile app, and a shared domain layer. Current work is focused on taking the core platform from pre-release toward production readiness, while extending mobile job-card workflows, invoicing, analytics, payments, GST support, and customer engagement.
+The active codebase is a **pnpm + Turborepo monorepo** with a Next.js web app, an Expo/React Native mobile app, and a shared domain layer. The product is being taken from pre-release toward production readiness through mobile job-card workflows, invoicing, analytics, payments, GST support, inventory controls, and customer engagement.
 
 [Explore the WrenchCloud codebase →](https://github.com/WRENCH-CLOUD/machnix)
 
@@ -42,6 +48,12 @@ The active codebase is a **pnpm + Turborepo monorepo** with a Next.js web app, a
 | [Retro Terminal Portfolio](https://github.com/Rohithgg/Rohithgg.github.io) | A personal portfolio presented as a terminal-inspired web experience. |
 | [Vehicle Maintain AI Predict](https://github.com/Rohithgg/vehicle-maintain-AI-predict) | An AI-assisted vehicle health and maintenance project built for a hackathon. |
 | Build-IT | An end-to-end online assessment platform built during my earlier engineering work. |
+
+### Projects I’ve explored
+
+Across my projects, I’ve worked on **garage operations, vehicle intelligence, online assessments, attendance systems, AI-assisted tools, document chat, data analysis, and developer experiences**. The common thread is simple: understand the problem, remove unnecessary complexity, and build something useful end to end.
+
+I’m comfortable taking a project from a rough idea to a working product — including the data model, APIs, interface, authentication, deployment, documentation, and the unglamorous edge cases that make software dependable.
 
 ## Tools I reach for
 
@@ -75,7 +87,7 @@ I also work with **Tailwind CSS, shadcn/ui, TanStack Query, Zod, TypeScript clea
 
 ## A little more about me
 
-I’m a rapid learner who enjoys moving between architecture, implementation, product decisions, and the details that make software feel dependable. I’ve worked across full-stack development, AI/ML experiments, data projects, and developer tooling — and I’m especially interested in building useful businesses around software rather than building software in isolation.
+I’m a rapid learner who enjoys moving between customer pain, architecture, implementation, product decisions, and the details that make software feel dependable. I’ve worked across full-stack development, AI/ML experiments, data projects, and developer tooling — and I’m especially interested in building useful businesses around software rather than building software in isolation.
 
 If you’re working on tools for garages, field-service teams, small businesses, or ambitious early-stage products, I’d be happy to connect.
 
