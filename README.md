@@ -1,103 +1,88 @@
-<!-- Profile Header with Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hey%20There,%20I'm%20Rohith%20Gona!%20🙋‍♂️&fontSize=40&fontAlignY=35" alt="banner"/>
+<div align="center">
+
+# Hey, I’m Rohith Gona
+
+### Co-founder & CTO at [WrenchCloud](https://github.com/WRENCH-CLOUD) · Product builder · Full-stack engineer
+
+I build practical software for people doing real work — currently turning garage operations into a calmer, more connected workflow with **WrenchCloud**.
+
+<p>
+  <a href="https://github.com/Rohithgg"><img src="https://img.shields.io/badge/GitHub-Rohithgg-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/rohithgona"><img src="https://img.shields.io/badge/LinkedIn-Rohith%20Gona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:atworkrohith.gona@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohith" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohithgona">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:atworkrohith.gona@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 What I'm Up To
-- 💡 Turning ideas into reality
-- 🧐 Solving real life problem solving 
-- ✏️ learning technology trends
+## What I’m building now
+
+### WrenchCloud — garage operations, without the chaos
+
+I’m building WrenchCloud with my co-founder: a multi-tenant garage management SaaS for repair shops and service teams. The product brings customers, vehicles, job cards, estimates, invoices, inventory, analytics, and mobile workflows into one system.
+
+The active codebase is a **pnpm + Turborepo monorepo** with a Next.js web app, an Expo/React Native mobile app, and a shared domain layer. Current work is focused on taking the core platform from pre-release toward production readiness, while extending mobile job-card workflows, invoicing, analytics, payments, GST support, and customer engagement.
+
+[Explore the WrenchCloud codebase →](https://github.com/WRENCH-CLOUD/machnix)
+
+## How I think about products
+
+- Start with an operational problem, not a fashionable technology.
+- Keep the domain model shared and the user experience close to the workflow.
+- Treat security and tenant isolation as product features, not afterthoughts.
+- Ship, listen, improve, and keep the feedback loop short.
+- Use AI and automation where they remove repetitive work — not where they add noise.
+
+## Selected projects
+
+| Project | What it is |
+| --- | --- |
+| [WrenchCloud](https://github.com/WRENCH-CLOUD/machnix) | Garage management SaaS with web, mobile, shared domain logic, Supabase, PostgreSQL, and tenant-aware security. |
+| [Retro Terminal Portfolio](https://github.com/Rohithgg/Rohithgg.github.io) | A personal portfolio presented as a terminal-inspired web experience. |
+| [Vehicle Maintain AI Predict](https://github.com/Rohithgg/vehicle-maintain-AI-predict) | An AI-assisted vehicle health and maintenance project built for a hackathon. |
+| Build-IT | An end-to-end online assessment platform built during my earlier engineering work. |
+
+## Tools I reach for
+
+<div align="center">
+
+**Product engineering**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo,reactnative,nodejs,rust,python" alt="TypeScript, React, Next.js, Expo, React Native, Node.js, Rust, Python" />
+
+**Data, infrastructure & delivery**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git,github,vercel" alt="PostgreSQL, Supabase, Docker, Linux, Git, GitHub, Vercel" />
+
+</div>
+
+I also work with **Tailwind CSS, shadcn/ui, TanStack Query, Zod, TypeScript clean architecture, REST APIs, JWT/RLS, CI/CD, AI tooling, and product analytics**.
+
+## GitHub snapshot
+
+> The old third-party stats cards were removed because they were intermittently failing or returning blank results. These badges use GitHub-backed endpoints and stay useful without relying on a rate-limited stats renderer.
+
+<div align="center">
+
+<a href="https://github.com/Rohithgg?tab=repositories"><img src="https://img.shields.io/github/repo-size/Rohithgg/Rohithgg?label=profile%20README&logo=github&style=for-the-badge&color=181717" alt="Profile README size" /></a>
+<a href="https://github.com/Rohithgg?tab=followers"><img src="https://img.shields.io/github/followers/Rohithgg?label=followers&logo=github&style=for-the-badge&color=236ad3" alt="GitHub followers" /></a>
+<a href="https://github.com/Rohithgg"><img src="https://img.shields.io/github/last-commit/Rohithgg/Rohithgg?label=profile%20updated&logo=github&style=for-the-badge&color=f5c542" alt="Profile README last updated" /></a>
+
+[View my repositories and live activity on GitHub →](https://github.com/Rohithgg)
+
+</div>
+
+## A little more about me
+
+I’m a rapid learner who enjoys moving between architecture, implementation, product decisions, and the details that make software feel dependable. I’ve worked across full-stack development, AI/ML experiments, data projects, and developer tooling — and I’m especially interested in building useful businesses around software rather than building software in isolation.
+
+If you’re working on tools for garages, field-service teams, small businesses, or ambitious early-stage products, I’d be happy to connect.
 
 ---
 
-## 👨‍💻 About Me
-- 🏃‍♂️ Rapid learner & adaptable
-- 🗂️ Productive and organized
-- 🗣️ Sociable, leader and also a good contributor.  
-- 🤸 Exploring everything tech!
+<div align="center">
 
----
+**Build useful things. Keep learning. Make the work easier for someone else.**
 
-<details>
-  <summary><b>🛠️ Tech Stack & Tools</b> (Click to expand)</summary>
-  <br>
-
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-
-  <br><br>
-  <b>AI/ML & Data Science</b><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-9A9AB8?logo=seaborn&logoColor=white" />
-
-  <br><br>
-  <b>Databases</b><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-
-  <br><br>
-  <b>DevOps & Tools</b><br>
-  <img src="https://img.shields.io/badge/WSL-4EAA25?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-
-  <br><br>
-  <b>Full Stack</b><br>
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
-
-  <br><br>
-  <b>Business Intelligence</b><br>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohithgg&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithgg&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<!-- Fun animated wave for footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer"/>
-</p>
+</div>
